@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="word">Word</string>
+    <string name="word_definitions">Word definitions</string>
+    <string name="clear_database">Clear database</string>
+    <string name="error_data_loading">Error data loading</string>
+    <string name="error_previous_results">Error data loading, you see previous results</string>
+    <string name="all_data_deketed">All data deleted</string>
+</resources>
