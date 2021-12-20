@@ -61,6 +61,6 @@ class DictionaryViewModel @Inject constructor(
 
     fun clearDatabase() = viewModelScope.launch {
         dictionaryUseCases.clearDatabase.invoke()
-        _showSnackBarEventValue.value = Event(R.string.all_data_deketed)
+        _showSnackBarEventValue.value = Event(R.string.all_data_deleted)
     }
 }

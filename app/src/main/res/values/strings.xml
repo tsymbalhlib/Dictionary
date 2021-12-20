@@ -5,5 +5,5 @@
     <string name="clear_database">Clear database</string>
     <string name="error_data_loading">Error data loading</string>
     <string name="error_previous_results">Error data loading, you see previous results</string>
-    <string name="all_data_deketed">All data deleted</string>
+    <string name="all_data_deleted">All data deleted</string>
 </resources>
